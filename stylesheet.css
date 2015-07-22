@@ -51,3 +51,10 @@ nav {
 #projects {
   background-color: yellow;
 }
+
+#vancouver {
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  color: #E0E0E0;
+}
