@@ -4,7 +4,7 @@ body {
 
 nav {
   display: block;
-  background-color: red;
+  background-color: white;
   height: 50px;
   padding: 10px;
   font-size: 50px;
@@ -16,7 +16,8 @@ nav {
   display: block;
   height: 20px;
   padding: 5px;
-  background-color: orange;
+  background-color: white;
+  color: black;
   font-size: 18px;
   line-height: 18px;
   text-align: center;
@@ -25,16 +26,16 @@ nav {
 #intro {
   display: block;
   height: 400px;
-  background-color: black;
+  background-color: white;
   padding: 100px 25px;
-  color: white;
+  color: black;
   text-align: center;
 }
 
 #skillset {
   display: block;
   min-height: 400px;
-  background-color: blue;
+  background-color: white;
   padding: 150px 25px;
   text-align: center;
 }
@@ -42,6 +43,7 @@ nav {
 .skill-block {
   display: inline-block;
   background-color: white;
+  border: solid 1px black;
   height: 250px;
   width: 240px;
   margin: 10px 20px;
